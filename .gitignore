@@ -1,2 +1,4 @@
 .env
 node_modules
+mint-fungible-spl/node_modules
+mint-fungible-spl/guideSecret.json
